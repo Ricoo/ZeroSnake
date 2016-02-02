@@ -210,7 +210,7 @@ public class SnakeHead : MonoBehaviour {
 		PlayerPrefs.SetString(i+"HScoreName", name);
 		score = 0;
 		name = "";
-	    }	       
+	    }
 	}
     }
     
